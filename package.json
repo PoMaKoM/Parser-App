@@ -9,7 +9,7 @@
   "author": "PoMa_KoM",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "config": "^3.2.6",
     "log4js": "^6.1.2"
   }

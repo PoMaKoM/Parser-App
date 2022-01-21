@@ -11,6 +11,6 @@
   "dependencies": {
     "axios": "^0.19.2",
     "config": "^3.2.6",
-    "log4js": "^6.1.2"
+    "log4js": "^6.4.0"
   }
 }

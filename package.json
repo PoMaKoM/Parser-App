@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "config": "^3.2.6",
+    "config": "^3.3.8",
     "log4js": "^6.1.2"
   }
 }
